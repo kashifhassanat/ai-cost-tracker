@@ -27,6 +27,6 @@ Provider | Input | Output | Seconds | Cost (USD)
 gemini   | 8 | 25 | 4.58 | $ 8e-06
 groq     | 78 | 122 | 0.61 | $ 0.000142
 
-Motivation:
+What I've learned:
 
 This was my First IEC Assignment which was of creating a Two providercost tracker. I learned how to call two LLM API's from one python script. I also learned how two different models tokenize the exact same prompt differently while keeping secret keys safe using .env and .gitignore.
